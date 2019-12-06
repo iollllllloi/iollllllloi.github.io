@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on iollllllloi</title>
+    <link>/categories/life/</link>
+    <description>Recent content in life on iollllllloi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开始...</title>
+      <link>/blog/2015/06/24/begin/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2015/06/24/begin/</guid>
+      <description>简介  开始写技术博客，希望能坚持下来。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
